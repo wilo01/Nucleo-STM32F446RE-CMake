@@ -1,0 +1,4 @@
+/Users/daro/Documents/workspace/Nucleo-STM32F446RE-CMake/build/CMakeFiles/rebuild_cache.dir
+/Users/daro/Documents/workspace/Nucleo-STM32F446RE-CMake/build/CMakeFiles/edit_cache.dir
+/Users/daro/Documents/workspace/Nucleo-STM32F446RE-CMake/build/CMakeFiles/FreeRTOS.dir
+/Users/daro/Documents/workspace/Nucleo-STM32F446RE-CMake/build/CMakeFiles/library.dir

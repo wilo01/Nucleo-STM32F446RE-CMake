@@ -1,0 +1,4 @@
+~Mode13; 	to jest 00
+Mode13_0 	to jest 01
+Mode13_1 	to jest 10
+Mode13 		to 11

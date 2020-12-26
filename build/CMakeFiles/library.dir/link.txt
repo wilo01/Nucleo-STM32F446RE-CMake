@@ -1,0 +1,2 @@
+/usr/local/bin/arm-none-eabi-ar qc liblibrary.a CMakeFiles/library.dir/src/main.cpp.obj
+/usr/local/bin/arm-none-eabi-ranlib liblibrary.a
